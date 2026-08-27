@@ -1,0 +1,11 @@
+Student_ID,Name,Department,Semester,Maths,Programming,Database,AI_ML,Attendance,Internal_Marks,Final_Marks
+S001,Aarav Shah,CS,Semester 1,65,70,68,72,80,28,68
+S001,Aarav Shah,CS,Semester 2,72,78,75,79,85,32,74
+S001,Aarav Shah,CS,Semester 3,78,85,82,86,88,35,80
+S002,Priya Patel,IT,Semester 1,88,90,85,92,94,38,89
+S002,Priya Patel,IT,Semester 2,82,84,80,85,90,34,83
+S002,Priya Patel,IT,Semester 3,75,76,72,78,85,30,76
+S003,Rohan Mehta,ECE,Semester 1,50,55,52,58,68,22,54
+S003,Rohan Mehta,ECE,Semester 2,55,58,56,60,72,25,57
+S003,Rohan Mehta,ECE,Semester 3,62,65,63,68,76,28,64
+S003,Rohan Mehta,ECE,Semester 4,68,70,69,72,80,31,70
